@@ -1,4 +1,4 @@
-![Header](images/header.png)
+![Header](img/header.png)
 
 # Introduction
 
